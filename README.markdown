@@ -65,7 +65,6 @@ A modular algorithmic trading system for backtesting and paper trading, designed
 5. Open a pull request.
 
 ## License
-[MIT License](LICENSE) - Feel free to modify and distribute, but include the original license.
 
 ## Acknowledgments
 - Built with inspiration from the WUSIF hackathon.
